@@ -19,7 +19,7 @@
 ### Repository Structure :
 
 - Source Code
-- Software Requirement Specification
+- SRS
 - SDS
 - Test Plan
 - README.md 
