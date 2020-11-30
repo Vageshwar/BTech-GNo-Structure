@@ -102,5 +102,15 @@ Documents should be in pdf format with updated information.
 - See changes in your GitHub Repository
 
   <hr>
+  
+  ## Add Collaborator
+  
+  - After creating Repository on your account,
+  - Go to Settings under Manage Access select Invite Collaborator
+  - Search and add your team members and project guide
+  - 🔴 Note 🔴 Search is as per username on GitHub
+  - Collaborators will receive Email for confirmation
+  - 🔴 You can follow your friends and project guide to keep track of thier activities 🙂.
+
 
   Feel free to raise an issue if you have any doubt 🙂.
